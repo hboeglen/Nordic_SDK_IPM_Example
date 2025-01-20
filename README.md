@@ -1,1 +1,1 @@
-Nordic SDK IPM Example
+Nordic SDK IPM Example (nRF5340)
